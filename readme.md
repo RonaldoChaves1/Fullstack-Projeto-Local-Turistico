@@ -4,7 +4,6 @@ Este projeto foi desenvolvido com o objetivo de praticar a criação de páginas
 
 A página apresenta a cidade de **Busan**, na Coreia do Sul, destacando pontos turísticos históricos e culturais, com uma estrutura visual organizada e agradável.
 
----
 
 ## 🚀 Conteúdos abordados
 
@@ -17,7 +16,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceito
 - Uso de fontes externas (Google Fonts)  
 - Aplicação de imagens e composição visual  
 
----
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -25,7 +23,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceito
 - CSS3  
 - Google Fonts  
 
----
 
 ## 📦 Como rodar o projeto
 
